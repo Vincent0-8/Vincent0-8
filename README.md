@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello!👋
-## I'm Vincent Chen
-### Full-Stack Web Engineer | MERN & Modern Web Ecosystem
+# Hello! 👋 I'm Vincent Chen.
+### Full-Stack Web Engineer 
+### MERN Stack • TypeScript • Next.js • Vue.js
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logoColor=white)](https://vinchen-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chenn/)
 
@@ -11,8 +11,6 @@
 ## About Me
 
 Software Engineer with hands-on experience in full-stack web development, specializing in building clean, performant, and scalable applications with **React, TypeScript, Express, and MongoDB**. Currently focused on building robust full-stack applications with **Next.js (App Router)** and scalable REST APIs.
-
----
 
 ## Tech Stack & Tools
 
@@ -42,7 +40,5 @@ Software Engineer with hands-on experience in full-stack web development, specia
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
----
 
 </div>
