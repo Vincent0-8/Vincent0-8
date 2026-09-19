@@ -41,4 +41,8 @@ Software Engineer with hands-on experience in full-stack web development, specia
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
+---
+
+Last Update: September 19th, 2026
+
 </div>
