@@ -10,7 +10,7 @@
 
 ## About Me
 
-Software Engineer with hands-on experience in full-stack web development, specializing in building clean, performant, and scalable applications with **React, TypeScript, Express, and MongoDB**. Currently focused on building robust full-stack applications with **Next.js (App Router)** and scalable REST APIs.
+Software Engineer with hands-on experience in full-stack web development, specializing in building clean, performant, and scalable applications with **MongoDB, Express, React, and Node.js**. I work around Javascript and Typescript environment.
 
 ## Tech Stack & Tools
 
