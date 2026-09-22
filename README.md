@@ -4,7 +4,7 @@
 ### Full-Stack Web Engineer 
 ### MERN Stack • TypeScript • Next.js • Vue.js
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logoColor=white)](https://vinchen-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chenn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logoColor=white)](https://www.vincentchenn.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chenn/)
 
 ---
 
@@ -43,6 +43,6 @@ Software Engineer with hands-on experience in full-stack web development, specia
 
 ---
 
-Last Update: September 19th, 2026
+Last Update: September 22nd, 2026
 
 </div>
