@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello! I'm Vincent Chen.
-### Full-Stack Web Engineer 
+### Full-Stack Web Developer 
 ### MERN Stack • TypeScript • Next.js • Vue.js
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logoColor=white)](https://www.vincentchenn.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chenn/)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Software Engineer with hands-on experience in full-stack web development, specializing in building clean, performant, and scalable applications with **MongoDB, Express, React, and Node.js**. I work around Javascript and Typescript environment.
+Full-stack Web Developer with hands-on experience in full-stack web development, specializing in building clean, performant, and scalable applications with **MongoDB, Express, React, and Node.js**. I work around Javascript and Typescript environment.
 
 ## Tech Stack & Tools
 
@@ -43,6 +43,6 @@ Software Engineer with hands-on experience in full-stack web development, specia
 
 ---
 
-Last Update: September 22nd, 2026
+Last Update: September 24th, 2026
 
 </div>
