@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! I'm Vincent Chen.
+# Hello! I'm Vincent Chen. 
 ### Full-Stack Web Developer 
 ### MERN Stack • TypeScript • Next.js • Vue.js
 
