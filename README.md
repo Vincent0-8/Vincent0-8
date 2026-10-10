@@ -31,7 +31,7 @@
 ### Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent0-8&layout=compact&theme=radical&hide_border=true&title_color=f43f5e&text_color=94a3b8" alt="Vincent's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenttChenn&layout=compact&theme=radical&hide_border=true&title_color=f43f5e&text_color=94a3b8" alt="Vincent's Most Used Languages" />
 </p>
 
 ---
